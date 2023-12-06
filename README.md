@@ -14,9 +14,6 @@ User-Friendly Interface: Our site boasts an intuitive and easy-to-navigate inter
 - ### Filters and Effects:
  Add a creative touch to your photos with a diverse collection of filters and effects. From vintage vibes to modern aesthetics, there's something for everyone.
 
-- ### Text and Stickers:
- Personalize your photos by adding text or stickers. Choose from a selection of fonts and fun stickers to make your images uniquely yours.
-
 - ### Collage Maker: 
 Combine multiple photos into a single collage using our intuitive collage maker. Customize layouts and experiment with different arrangements.
 
