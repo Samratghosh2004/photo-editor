@@ -25,7 +25,7 @@ Combine multiple photos into a single collage using our intuitive collage maker.
 
 
 
-## Authors
+## Author
 
 - [ARNAB SARKAR](https://github.com/arnab236)
 - [SAMRAT GHOSH](https://github.com/Samratghosh2004)
